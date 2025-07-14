@@ -20,7 +20,7 @@ A hands-on codelab project to practice building UI with Jetpack Compose. Covers 
 
 ---
 ## 📸 Preview:
-- Light Mode 💡
-![Greeting Card Preview](assets/assets1.jpeg)
-- Dark Mode 🌙
-- ![Greeting Card Preview](assets/assets2.jpeg)
+- Light Mode 💡 <br>
+![Greeting Card Preview](assets/assets1.jpeg) <br>
+- Dark Mode 🌙 <br>
+- ![Greeting Card Preview](assets/assets2.jpeg) <br>
