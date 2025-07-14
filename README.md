@@ -8,21 +8,7 @@ A hands-on codelab project to practice building UI with Jetpack Compose. Covers 
 - ✅ Includes accessibility via content descriptions
 
 ---
-## 📂 Structure:
-main/
-├── AndroidManifest.xml
-├── java/
-│   └── com/
-│       └── example/
-│           └── learn_together/
-│               ├── MainActivity.kt
-│               └── ui/
-│                   └── theme/
-│                       ├── Color.kt
-│                       ├── Theme.kt
-│                       └── Type.kt
 
----
 ## 📸 Preview:
 - Light Mode 💡 <br>
 ![Greeting Card Preview](assets/assets1.jpeg) <br>
